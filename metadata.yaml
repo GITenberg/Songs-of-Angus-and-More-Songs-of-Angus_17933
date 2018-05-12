@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7709
     wikipedia: http://en.wikipedia.org/wiki/Violet_Jacob
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17933#Songs-of-Angus-and-More-Songs-of-Angus
 gutenberg_issued: '2006-03-06'
 gutenberg_type: Text
 identifiers:
